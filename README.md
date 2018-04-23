@@ -1,4 +1,4 @@
 # kingdenOne
 firstRepository
 Hi!
-Let's go coming!
+Let's go to the challenge!
